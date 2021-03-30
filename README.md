@@ -10,7 +10,10 @@ Third year Computer Science Major at University of Toronto. Excited for the deve
 
 <tb>
     <li align="left">
-        🔥 Collaborating on an online video editor as a backend Developer
+        ❗ Many projects are private for the time being
+    </li>
+    <li align="left">
+        🔥 Collaborating on an online video editor as a Developer
     </li>
     <li align="left">
         📚 Working hard on Software, Web Development and Database skills 
@@ -19,6 +22,6 @@ Third year Computer Science Major at University of Toronto. Excited for the deve
         💬 Need to reach me? <a href = "mailto: t.cieslak@mail.utoronto.ca">Email</a> me or send a <a href="https://www.linkedin.com/in/tomaszcieslak4/">message</a> on LinkedIn 
     </li>
     <li align="left">
-        😄 Fun Fact: New found love for Machine Learning Algorithmns
+        😄 Fun Fact: Created a Google chrome extension that resizes webcam overlays on BB-Collaborate
     </li>
 </tb>
