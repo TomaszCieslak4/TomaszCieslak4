@@ -3,7 +3,7 @@
 <img class="img" src='assets\background.jpg'>
 
 <h2 align="center">Welcome! I'm Tomasz ✌️</h1>
-<hr>
+
 <p align="left">
 Computer Science Major at University of Toronto. Persuing my dreams by programming change in the World and it all starts with just a few lines... 
 </p>
